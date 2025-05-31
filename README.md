@@ -11,9 +11,7 @@
 </head>
 
 <body>
-    <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
-            srcset="">
+    <header class="container text-center>
         <p class="lead">Eu sou Luanna_</p>
         <h1>Eu ensino a técnica de Crochetar</h1>
         <p>Sou arteã no ramo do Crochê. Ensino peça de crochê para aspessoas que buscam aprender mais dessa arte do 
